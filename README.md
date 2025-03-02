@@ -24,6 +24,9 @@ The Yoga Posture Detection and Correction System is an AI-based application that
 4. Users receive instant feedback and suggestions for correction.
 5. Performance tracking and progress visualization for improvement.
 
+## Research Publication
+This project was published in the **ICDSAC 2023** conference proceedings. The paper, titled ["Aasana: Kinematic Yoga Posture Detection and Correction System using CNN"](https://www.itm-conferences.org/articles/itmconf/pdf/2023/06/itmconf_icdsac2023_05007.pdf), presents a detailed methodology and experimental results demonstrating the effectiveness of the system.
+
 ## Installation
 1. Clone the repository:
    ```bash
