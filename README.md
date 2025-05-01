@@ -30,7 +30,7 @@ This project was published in the **ICDSAC 2023** conference proceedings. The pa
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yoga-posture-detection.git
+   https://github.com/SohamBorkar/Automated_Yoga_Trainer.git
    cd yoga-posture-detection
    ```
 2. Install dependencies:
